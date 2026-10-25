@@ -1,0 +1,69 @@
+[
+  {
+    "instrument": "tongue",
+    "credit": "User-recorded Track4_VoiceAudio.wav and Track5_VoiceAudio.wav; approved 整理版 V2 高音平衡",
+    "license": "user recording"
+  },
+  {
+    "instrument": "piano",
+    "credit": "Salamander Grand Piano V3 by Alexander Holm (Yamaha C5), MP3 set from tonejs.github.io/audio/salamander",
+    "license": "CC BY 3.0 — © Alexander Holm"
+  },
+  {
+    "instrument": "harp",
+    "credit": "FreePats Concert Harp 2020-07-02 (Versilian Community Sample Library), forte layer",
+    "license": "CC0 1.0"
+  },
+  {
+    "instrument": "guitar",
+    "credit": "FreePats Spanish Classical Guitar 2019-06-18",
+    "license": "CC0 1.0"
+  },
+  {
+    "instrument": "guzheng",
+    "credit": {
+      "publisher": "DSK Music / Victor Castilla",
+      "product": "Asian DreamZ SoundFont",
+      "official": "https://www.dskmusic.com/dsk-asian-dreamz/",
+      "download": "https://rekkerd.org/samples/DSK_Asian_DreamZ_sf2.zip",
+      "bank_sha256": "e61d0f590db00434fa1a904ab210fdf4439fef13617d89d33eacc8edfc403e5e"
+    },
+    "license": "DSK: free for private and commercial use; original bank retained locally, no raw samples included in music bundle"
+  },
+  {
+    "instrument": "erhu",
+    "credit": {
+      "publisher": "DSK Music / Victor Castilla",
+      "product": "Asian DreamZ SoundFont",
+      "official": "https://www.dskmusic.com/dsk-asian-dreamz/",
+      "download": "https://rekkerd.org/samples/DSK_Asian_DreamZ_sf2.zip",
+      "bank_sha256": "e61d0f590db00434fa1a904ab210fdf4439fef13617d89d33eacc8edfc403e5e"
+    },
+    "license": "DSK: free for private and commercial use; original bank retained locally, no raw samples included in music bundle"
+  },
+  {
+    "instrument": "cello",
+    "credit": {
+      "publisher": "Versilian Studios / Sam Gossner",
+      "product": "VSCO 2 CE Cello Section",
+      "url": "https://github.com/sgossner/VSCO-2-CE",
+      "revision": "440300901dfe9275fd84e0b7763af1f8443ae62e"
+    },
+    "license": "CC0 1.0"
+  },
+  {
+    "instrument": "fluteUser",
+    "credit": "用戶提供：FLUTE SCALE.wav",
+    "license": "用戶提供・分發授權未確認"
+  },
+  {
+    "instrument": "xiao",
+    "credit": "用戶提供：洞簫Dongxiao.wav",
+    "license": "用戶提供・分發授權未確認"
+  },
+  {
+    "instrument": "xun",
+    "credit": "用戶提供：塤Xun.wav",
+    "license": "用戶提供・分發授權未確認"
+  }
+]
