@@ -9,10 +9,12 @@
   "tongue_drum_sha256": "bfe89e78f9ceb3e108c41168e9babc6edb4a290c543164c0ece64bd27243547a",
   "lead_gain_db": 0,
   "lead_rms_dbfs": -34.17480532361929,
-  "backing_rms_relative_db": -15.640169655650777,
-  "backing_peak_relative_db": -8.840723915075344,
-  "mix_peak_dbfs": -20.895168365773237,
-  "mix_gain": 0.169034942984581,
+  "target_backing_rms_relative_db": -10.0,
+  "backing_rms_relative_db": -10.000000118540541,
+  "backing_peak_relative_db": -3.2005542583728697,
+  "mix_peak_dbfs": -19.104416893868684,
+  "mix_gain": 0.3235824704170227,
+  "final_balance_gain_db": 5.6401696556507765,
   "min_accompaniment_envelope_gain": 0.5881743431091309,
   "performance_events": [
     {
@@ -3802,7 +3804,7 @@
     }
   },
   "renderer": "custom sample renderer, original lossless source recordings, not full SFZ/VST emulation",
-  "manual_listening": "awaiting user A/B preference",
-  "published_audio": "audio/realistic-accompaniment-v11/02.mp3",
-  "published_audio_sha256": "3faedf01392dcc77b6765c083b3a284997bf8c267fe9663a461640dfbbce6459"
+  "manual_listening": "user preferred upgraded sources; accompaniment increased to -10 dB RMS relative to lead as requested",
+  "published_audio": "audio/realistic-accompaniment-v11/02-backing-minus10db.mp3",
+  "published_audio_sha256": "29902abb8fa87135cb5f7645bf69916561534f757f4b8fc6c735dd593577f882"
 }

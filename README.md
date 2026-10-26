@@ -14,3 +14,5 @@
 ## 真實音源對照（2026-10-26）
 
 [試聽鋼琴與結他 A/B 對照](https://teabonvivant.github.io/tongue-drum-music-player/#playlist=realistic-accompaniment-v11)。新增兩首伴奏升級版本，原版亦列入同一歌單方便比較。空靈鼓分軌保持原錄音、原音量及原拍點。製作記錄及音源署名見 production/realistic-accompaniment-v11。
+
+2026-10-26 試聽調整：使用者接受新鋼琴／結他音源，將兩首新音源版的伴奏平均電平調整為低於主奏約 10 dB，空靈鼓分軌原樣保留。往後新版本以此平衡作起點，再按實際樂句檢查。

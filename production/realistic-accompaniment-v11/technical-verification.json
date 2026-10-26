@@ -7,10 +7,10 @@
     "melody_and_accompaniment_beats_preserved": true,
     "duration": 120.0,
     "clip_samples": 0,
-    "backing_rms_relative_db": -14.0,
-    "backing_peak_relative_db": -9.63,
-    "active_window_ratio_99th_percentile_db": -8.54,
-    "mix_peak_dbfs": -18.85,
+    "backing_rms_relative_db": -10.0,
+    "backing_peak_relative_db": -5.63,
+    "active_window_ratio_99th_percentile_db": -4.54,
+    "mix_peak_dbfs": -18.52,
     "samples_verified": 19
   },
   {
@@ -21,10 +21,10 @@
     "melody_and_accompaniment_beats_preserved": true,
     "duration": 120.0,
     "clip_samples": 0,
-    "backing_rms_relative_db": -15.64,
-    "backing_peak_relative_db": -8.84,
-    "active_window_ratio_99th_percentile_db": -7.5,
-    "mix_peak_dbfs": -20.89,
+    "backing_rms_relative_db": -10.0,
+    "backing_peak_relative_db": -3.2,
+    "active_window_ratio_99th_percentile_db": -1.86,
+    "mix_peak_dbfs": -19.1,
     "samples_verified": 10
   }
 ]
