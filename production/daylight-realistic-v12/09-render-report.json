@@ -1,0 +1,6464 @@
+{
+  "number": "09",
+  "title": "草地上的信",
+  "source_album": "daylight-album-v9",
+  "bpm": 92,
+  "meter": "4/4",
+  "seconds": 141.7719954648526,
+  "instruments": [
+    "tongue",
+    "harp",
+    "cello"
+  ],
+  "lead_gain_db": 0,
+  "tongue_drum_sha256": "9da7ddd0583f6821aa6930c4c764f2f452575a98df502db57564ccedb893064f",
+  "tongue_drum_byte_identical": true,
+  "backing_rms_relative_db": -10.000000138444808,
+  "backing_peak_relative_db": -11.375395830781859,
+  "mix_peak_dbfs": -18.419944495098598,
+  "active_window_ratio_99th_percentile_db": -2.430659055709839,
+  "transient_control_passes": 0,
+  "stem_reports": [
+    {
+      "instrument": "harp",
+      "events": 201,
+      "register_octave_shift": 0,
+      "active_rms_before_gain": 0.20950431894346735,
+      "stem_calibration_gain": 0.1670609950978834,
+      "role_weight": 1.0,
+      "rms_after_calibration": 0.03520691265844263
+    },
+    {
+      "instrument": "cello",
+      "events": 54,
+      "register_octave_shift": 0,
+      "active_rms_before_gain": 0.010543572080552014,
+      "stem_calibration_gain": 2.3711129215983044,
+      "role_weight": 0.7142857142857143,
+      "rms_after_calibration": 0.015280875831398377
+    }
+  ],
+  "performance_events": [
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 0.12,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 1,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 0.772174,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 1,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 1.424348,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 1,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 2.076522,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 1,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 2.728696,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 2,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 3.38087,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 2,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 4.033043,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 2,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 4.685217,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 2,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 5.337391,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 3,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 5.989565,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 3,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 6.641739,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 3,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 7.293913,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 3,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 7.946087,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 4,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 8.598261,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 4,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 9.250435,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 4,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 9.902609,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 4,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 10.554783,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 5,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 11.206957,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 5,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 11.85913,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 5,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 12.511304,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 5,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 13.163478,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 6,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 13.815652,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 6,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 14.467826,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 6,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 15.12,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 6,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 15.772174,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 7,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 16.424348,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 7,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 17.076522,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 7,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 17.728696,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 7,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 18.38087,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 8,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 19.033043,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 8,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 19.685217,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 8,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 20.337391,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 8,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 20.989565,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 9,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 21.641739,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 9,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 22.293913,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 9,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 22.946087,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 9,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 23.598261,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 10,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 24.250435,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 10,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 24.902609,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 10,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 25.554783,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 10,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 26.206957,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 11,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 26.85913,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 11,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 27.511304,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 11,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 28.163478,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 11,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 28.815652,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 12,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 29.467826,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 12,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 30.12,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 12,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 30.772174,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 12,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 31.424348,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 13,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 32.076522,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 13,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 32.728696,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 13,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 33.38087,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 13,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 34.033043,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 14,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 34.685217,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 14,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 35.337391,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 14,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 35.989565,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 14,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 36.641739,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 15,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 37.293913,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 15,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 37.946087,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 15,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 38.598261,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 15,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 39.250435,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 16,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 39.902609,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 16,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 40.554783,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 16,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 41.206957,
+      "duration": 0.554348,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 16,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 41.85913,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 17,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 42.511304,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 17,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 43.163478,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 17,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 43.815652,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 17,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 44.467826,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 18,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 45.12,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 18,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 45.772174,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 18,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 46.424348,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 18,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 47.076522,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 19,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 47.728696,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 19,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 48.38087,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 19,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 49.033043,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 19,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 49.685217,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 20,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 61,
+      "seconds": 50.337391,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 20,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 50.989565,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 20,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 61,
+      "seconds": 51.641739,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 20,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 52.293913,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 21,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 52.946087,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 21,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 53.598261,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 21,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 54.250435,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 21,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 54.902609,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 22,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 55.554783,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 22,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 56.206957,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 22,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 56.85913,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 22,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 57.511304,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 23,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 61,
+      "seconds": 58.163478,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 23,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 58.815652,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 23,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 61,
+      "seconds": 59.467826,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 23,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 60.12,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 24,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 60.772174,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 24,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 61.424348,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 24,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 62.076522,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 24,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 62.728696,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 25,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 63.38087,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 25,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 64.033043,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 25,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 64.685217,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 25,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 65.337391,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 26,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 65.989565,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 26,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 66.641739,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 26,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 67.293913,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 26,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 67.946087,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 27,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 68.598261,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 27,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 69.250435,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 27,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 69.902609,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 27,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 70.554783,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 28,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 71.206957,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 28,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 71.85913,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 28,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 72.511304,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 28,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 73.163478,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 29,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 73.815652,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 29,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 74.467826,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 29,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 75.12,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 29,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 75.772174,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 30,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 76.424348,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 30,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 77.076522,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 30,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 77.728696,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 30,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 78.38087,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 31,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 79.033043,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 31,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 79.685217,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 31,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 80.337391,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 31,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 80.989565,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 32,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 81.641739,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 32,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 82.293913,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 32,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 82.946087,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 32,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 83.598261,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 33,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 84.250435,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 33,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 84.902609,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 33,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 85.554783,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 33,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 86.206957,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 34,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 86.85913,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 34,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 87.511304,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 34,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 88.163478,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 34,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 88.815652,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 35,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 89.467826,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 35,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 90.12,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 35,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 90.772174,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 35,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 91.424348,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 36,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 61,
+      "seconds": 92.076522,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 36,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 92.728696,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 36,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 61,
+      "seconds": 93.38087,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 36,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 94.033043,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 37,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 94.685217,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 37,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 95.337391,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 37,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 95.989565,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 37,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 96.641739,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 38,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 97.293913,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 38,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 97.946087,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 38,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 98.598261,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 38,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 99.250435,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 39,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 61,
+      "seconds": 99.902609,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 39,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 100.554783,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 39,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 61,
+      "seconds": 101.206957,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 39,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 101.85913,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 40,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 102.511304,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 40,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 103.163478,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 40,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 103.815652,
+      "duration": 0.619565,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 40,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 104.467826,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 41,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 105.772174,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 41,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 105.772174,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 41,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 107.076522,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 42,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 108.38087,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 42,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 108.38087,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 42,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 109.685217,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 43,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 110.989565,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 43,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 110.989565,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 43,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 112.293913,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 44,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 61,
+      "seconds": 113.598261,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 44,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 113.598261,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 44,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 114.902609,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 45,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 116.206957,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 45,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 116.206957,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 45,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 117.511304,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 46,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 59,
+      "seconds": 118.815652,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 46,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 59,
+        "sample": "local-sources/harp/B3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 8.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 118.815652,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 46,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 120.12,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 47,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 61,
+      "seconds": 121.424348,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 47,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 121.424348,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 47,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 122.728696,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 48,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 54,
+      "seconds": 124.033043,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 48,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 124.033043,
+      "duration": 1.304348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 48,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 125.337391,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 49,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 125.989565,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 49,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 55,
+      "seconds": 126.641739,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 49,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 62,
+      "seconds": 127.293913,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 49,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "root_midi": 62,
+        "sample": "local-sources/harp/D4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 7.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 127.946087,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 50,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 128.598261,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 50,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 129.250435,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 50,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 129.902609,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 50,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 130.554783,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 51,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 131.206957,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 51,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 131.85913,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 51,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 64,
+      "seconds": 132.511304,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 51,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "root_midi": 65,
+        "sample": "local-sources/harp/F4_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 133.163478,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 52,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 133.815652,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 52,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 134.467826,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 52,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 57,
+      "seconds": 135.12,
+      "duration": 0.554348,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 52,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "root_midi": 55,
+        "sample": "local-sources/harp/G3_mf1.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "harp",
+      "midi": 50,
+      "seconds": 135.772174,
+      "duration": 2,
+      "velocity": 0.065,
+      "role": "cadence",
+      "bar": 53,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.64071,
+      "source_detail": {
+        "root_midi": 48,
+        "sample": "local-sources/harp/C3_mf3.flac",
+        "dynamics": "mf where recorded; original SFZ region otherwise",
+        "tune_cents": 1.0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 14.467826,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 6,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 18.38087,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 8,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.68929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 24.902609,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 10,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 28.815652,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 12,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 35.337391,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 14,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 39.250435,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 16,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.68929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 41.85913,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 17,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 42.511304,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 17,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 43.163478,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 17,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 44.467826,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 18,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 62,
+      "seconds": 45.12,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 18,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 59,
+      "seconds": 45.772174,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 18,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -1
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 59,
+      "seconds": 46.750435,
+      "duration": 0.326087,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 18,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -1
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 47.076522,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 19,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 47.728696,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 19,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 54,
+      "seconds": 48.38087,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 19,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 53,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_F2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 1
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 49.685217,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 20,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 52.293913,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 21,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 52.946087,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 21,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 53.598261,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 21,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 54.902609,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 22,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 59,
+      "seconds": 55.554783,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 22,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -1
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 59,
+      "seconds": 56.206957,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 22,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -1
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 59,
+      "seconds": 57.185217,
+      "duration": 0.326087,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 22,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -1
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 57.511304,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 23,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.70357,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 58.163478,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 23,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.70357,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 58.815652,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 23,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.70357,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 60.12,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 24,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.68929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 66.641739,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 26,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 70.554783,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 28,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 77.076522,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 30,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 80.989565,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 32,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.68929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 83.598261,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 33,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 84.250435,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 33,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 84.902609,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 33,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 86.206957,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 34,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 86.85913,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 34,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 54,
+      "seconds": 87.511304,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 34,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 53,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_F2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 1
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 54,
+      "seconds": 88.489565,
+      "duration": 0.326087,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 34,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 53,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_F2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 1
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 88.815652,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 35,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 62,
+      "seconds": 89.467826,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 35,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 62,
+      "seconds": 90.12,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 35,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 91.424348,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 36,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 94.033043,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 37,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 94.685217,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 37,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 95.337391,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 37,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 96.641739,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 38,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 97.293913,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 38,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 97.946087,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 38,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 98.924348,
+      "duration": 0.326087,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 38,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 99.250435,
+      "duration": 0.554348,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 39,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.70357,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 100.554783,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 39,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.70357,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 101.85913,
+      "duration": 1.173913,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 40,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.68929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 135.772174,
+      "duration": 2,
+      "velocity": 0.065,
+      "role": "cadence",
+      "bar": 53,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.64071,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    }
+  ],
+  "original_melody_events": [
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 0.12,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 1
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 0.772174,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 1
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 1.424348,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 1
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 2.728696,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 2
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 3.38087,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 2
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 4.033043,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 2
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 5.337391,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 3
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 5.989565,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 3
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 6.641739,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 3
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 7.946087,
+      "duration": 2.608696,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 4
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 10.554783,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 5
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 11.206957,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 5
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 11.85913,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 5
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 13.163478,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 6
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 13.815652,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 6
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 14.467826,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 6
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 15.772174,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 7
+    },
+    {
+      "instrument": "tongue",
+      "midi": 61,
+      "seconds": 16.424348,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 7
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 17.076522,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 7
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 18.38087,
+      "duration": 2.608696,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 8
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 20.989565,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 9
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 21.641739,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 9
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 22.293913,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 9
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 23.598261,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 10
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 24.250435,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 10
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 24.902609,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 10
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 26.206957,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 11
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 26.85913,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 11
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 27.511304,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 11
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 28.815652,
+      "duration": 2.608696,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 12
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 31.424348,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 13
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 32.076522,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 13
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 32.728696,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 13
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 34.033043,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 14
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 34.685217,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 14
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 35.337391,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 14
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 36.641739,
+      "duration": 1.304348,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 15
+    },
+    {
+      "instrument": "tongue",
+      "midi": 61,
+      "seconds": 37.946087,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 15
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 39.250435,
+      "duration": 2.608696,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 16
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 41.85913,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 17
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 42.511304,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 17
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 43.163478,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 17
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 44.467826,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 18
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 45.12,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 18
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 45.772174,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 18
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 46.424348,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 18
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 46.750435,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 18
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 47.076522,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 19
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 47.728696,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 19
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 48.38087,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 19
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 49.033043,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 19
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 49.35913,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 19
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 49.685217,
+      "duration": 2.608696,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 20
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 52.293913,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 21
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 52.946087,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 21
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 53.598261,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 21
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 54.902609,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 22
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 55.554783,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 22
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 56.206957,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 22
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 56.85913,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 22
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 57.185217,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 22
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 57.511304,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 23
+    },
+    {
+      "instrument": "tongue",
+      "midi": 61,
+      "seconds": 58.163478,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 23
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 58.815652,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 23
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 59.467826,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 23
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 59.793913,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 23
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 60.12,
+      "duration": 2.608696,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 24
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 62.728696,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 25
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 63.38087,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 25
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 64.033043,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 25
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 65.337391,
+      "duration": 1.304348,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 26
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 66.641739,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 26
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 67.946087,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 27
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 68.598261,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 27
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 69.250435,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 27
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 70.554783,
+      "duration": 2.608696,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 28
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 73.163478,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 29
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 73.815652,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 29
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 74.467826,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 29
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 75.772174,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 30
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 76.424348,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 30
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 77.076522,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 30
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 78.38087,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 31
+    },
+    {
+      "instrument": "tongue",
+      "midi": 61,
+      "seconds": 79.033043,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 31
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 79.685217,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 31
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 80.989565,
+      "duration": 2.608696,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 32
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 83.598261,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 33
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 84.250435,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 33
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 84.902609,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 33
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 86.206957,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 86.85913,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 87.511304,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 88.163478,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 88.489565,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 88.815652,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 35
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 89.467826,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 35
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 90.12,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 35
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 90.772174,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 35
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 91.098261,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 35
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 91.424348,
+      "duration": 2.608696,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 36
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 94.033043,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 37
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 94.685217,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 37
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 95.337391,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 37
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 96.641739,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 97.293913,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 97.946087,
+      "duration": 0.652174,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 98.598261,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 98.924348,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 99.250435,
+      "duration": 0.652174,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 39
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 99.902609,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 39
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 100.228696,
+      "duration": 0.326087,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 39
+    },
+    {
+      "instrument": "tongue",
+      "midi": 61,
+      "seconds": 100.554783,
+      "duration": 1.304348,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 39
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 101.85913,
+      "duration": 2.608696,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 40
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 104.467826,
+      "duration": 0.652174,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 41
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 105.12,
+      "duration": 0.652174,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 41
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 105.772174,
+      "duration": 1.304348,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 41
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 107.076522,
+      "duration": 0.652174,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 42
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 107.728696,
+      "duration": 0.652174,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 42
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 108.38087,
+      "duration": 1.304348,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 42
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 109.685217,
+      "duration": 0.652174,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 43
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 110.337391,
+      "duration": 0.652174,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 43
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 110.989565,
+      "duration": 1.304348,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 43
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 112.293913,
+      "duration": 2.608696,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 44
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 114.902609,
+      "duration": 0.652174,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 45
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 115.554783,
+      "duration": 0.652174,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 45
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 116.206957,
+      "duration": 1.304348,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 45
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 117.511304,
+      "duration": 0.652174,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 46
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 118.163478,
+      "duration": 0.652174,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 46
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 118.815652,
+      "duration": 1.304348,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 46
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 120.12,
+      "duration": 0.652174,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 47
+    },
+    {
+      "instrument": "tongue",
+      "midi": 61,
+      "seconds": 120.772174,
+      "duration": 0.652174,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 47
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 121.424348,
+      "duration": 1.304348,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 47
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 122.728696,
+      "duration": 2.608696,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 48
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 125.337391,
+      "duration": 0.652174,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 49
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 125.989565,
+      "duration": 0.652174,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 49
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 126.641739,
+      "duration": 1.304348,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 49
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 127.946087,
+      "duration": 0.652174,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 50
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 128.598261,
+      "duration": 0.652174,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 50
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 129.250435,
+      "duration": 1.304348,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 50
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 130.554783,
+      "duration": 2.608696,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 51
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 133.163478,
+      "duration": 2.608696,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 52
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 135.772174,
+      "duration": 2.5,
+      "velocity": 0.43,
+      "role": "main_melody",
+      "bar": 53
+    }
+  ],
+  "samples_used": {
+    "local-sources/harp/C3_mf3.flac": {
+      "sha256": "b703b5022165f9acc271dec37d4b9e9271e67869a32db5bd626473ab3a0dc28f",
+      "onset_trim_frames": 0
+    },
+    "local-sources/harp/G3_mf1.flac": {
+      "sha256": "afea37036cf8987d6b7a21684fbff9ed24a3287245889e2886c7379d53a21bb4",
+      "onset_trim_frames": 0
+    },
+    "local-sources/harp/D4_mf1.flac": {
+      "sha256": "ec8057967159ece1046554a40c3ad24fad493acc274f703b54f69b357be3b972",
+      "onset_trim_frames": 37
+    },
+    "local-sources/harp/F4_mf1.flac": {
+      "sha256": "b4b80d6d85306260d797e1fd3bbc3e79ed39f27e18baf77018b219589096f177",
+      "onset_trim_frames": 0
+    },
+    "local-sources/harp/B3_mf1.flac": {
+      "sha256": "894e58f89c6301011047b79935ba172d50daae8bd95d7863fcb9e102e2d0c648",
+      "onset_trim_frames": 1306
+    },
+    "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav": {
+      "sha256": "c97a003184fdcb153d6b6c0bae8d82a90592a1b04b06bd7caaeda8b9776d5284",
+      "onset_trim_frames": 606
+    },
+    "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav": {
+      "sha256": "e8640dec9febc6e39fcf06b19d2c95a85d5ff8c38f13c9879e69f551eaf38ab8",
+      "onset_trim_frames": 1107
+    },
+    "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav": {
+      "sha256": "a614ee7ca821b44660236e47b89620cf914ec6ad27a99bc0d9764f47dbe512e1",
+      "onset_trim_frames": 1072
+    },
+    "instruments/realistic-accompaniment-v11/cello/susvib_F2_v1_1.wav": {
+      "sha256": "162054eab4ba118924f8f8986cf1b17ccfd65211d1945743ffbae30b4953f901",
+      "onset_trim_frames": 328
+    }
+  },
+  "notes": "Piano, guitar, harp, cello and flute use original lossless samples. Guzheng and erhu retain DSK samples; xiao/xun retain existing recorded samples. Octave-only accompaniment register corrections are listed per instrument. The user-recorded tongue drum is unchanged. No added percussion. Custom sample renderer, not full VST/SFZ emulation.",
+  "published_audio": "audio/daylight-realistic-v12/09-backing-minus10db.mp3",
+  "published_audio_sha256": "b4d507f10c3f16f246335959ca732521a10cbd21731348f985344938b8f2b614"
+}

@@ -82,5 +82,63 @@
     "url": "https://github.com/facebookincubator/Meta-open-sound/tree/main/systems/instruments/meta-nylon-guitar",
     "license": "CC0 1.0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "instrument": "tongue",
+    "version": "daylight-realistic-v12",
+    "credit": "User-recorded tongue drum; original daylight-album-v9 lead WAV and solo MP3 copied byte-for-byte, 0 dB gain change.",
+    "license": "user recording"
+  },
+  {
+    "instrument": "piano",
+    "version": "daylight-realistic-v12",
+    "credit": "Salamander Grand Piano V3 / Alexander Holm, Yamaha C5; original 48 kHz / 24-bit lossless samples, soft adjacent velocity layers, retuning, phrase dynamics, pedal-like release handling and custom room simulation.",
+    "source": "https://github.com/sfzinstruments/SalamanderGrandPiano",
+    "revision": "3382bf9496bba2486f5ab0de55a264d1dfc38404",
+    "license": "CC BY 3.0 - Alexander Holm",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "instrument": "guitar",
+    "version": "daylight-realistic-v12",
+    "credit": "Meta Creative Audio team / Meta Open Sound, Meta Nylon Guitar v1.0.0; original lossless 24-bit / 48 kHz fingerstyle recordings, string/fret mapping and same-string damping.",
+    "source": "https://github.com/facebookincubator/Meta-open-sound/tree/main/systems/instruments/meta-nylon-guitar",
+    "license": "CC0 1.0"
+  },
+  {
+    "instrument": "harp",
+    "version": "daylight-realistic-v12",
+    "credit": "FreePats Concert Harp 2020-07-02, Versilian Community Sample Library / Versilian Studios, K. Smith; original lossless FLAC with moderate dynamic layers selected per SFZ mapping.",
+    "source": "https://freepats.zenvoid.org/OrchestralStrings/harp.html",
+    "license": "CC0 1.0"
+  },
+  {
+    "instrument": "cello",
+    "version": "daylight-realistic-v12",
+    "credit": "VSCO 2 Community Edition / Sam Gossner & Simon Dalzell, Cello Section, recorded soft sustained vibrato layer; expanded original WAV note coverage. Cello section, not solo cello.",
+    "source": "https://github.com/sgossner/VSCO-2-CE",
+    "revision": "440300901dfe9275fd84e0b7763af1f8443ae62e",
+    "license": "CC0 1.0"
+  },
+  {
+    "instrument": "flute",
+    "version": "daylight-realistic-v12",
+    "credit": "VSCO 2 Community Edition / Sam Gossner & Simon Dalzell, lossless flute recordings, sustained vibrato and staccato selected by note duration; replaces the earlier fluteUser bank in this version.",
+    "source": "https://github.com/sgossner/VSCO-2-CE",
+    "revision": "440300901dfe9275fd84e0b7763af1f8443ae62e",
+    "license": "CC0 1.0"
+  },
+  {
+    "instrument": "guzheng / erhu",
+    "version": "daylight-realistic-v12",
+    "credit": "DSK Music / Victor Castilla, Asian DreamZ samples retained; upgraded resampling, envelopes, phrase dynamics and mix balance. This is not a replacement acoustic recording library.",
+    "source": "https://www.dskmusic.com/dsk-asian-dreamz/",
+    "license": "DSK permits private and commercial music use; no raw bank redistributed"
+  },
+  {
+    "instrument": "xiao / xun",
+    "version": "daylight-realistic-v12",
+    "credit": "Existing user-provided recorded banks retained; loop/envelope and octave-register handling refined. Original attribution and distribution uncertainty retained.",
+    "license": "user-provided; distribution rights not independently verified"
   }
 ]

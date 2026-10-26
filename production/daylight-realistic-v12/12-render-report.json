@@ -1,0 +1,5183 @@
+{
+  "number": "12",
+  "title": "小船搖呀搖",
+  "source_album": "daylight-album-v9",
+  "bpm": 88,
+  "meter": "3/4",
+  "seconds": 112.48399092970521,
+  "instruments": [
+    "tongue",
+    "guitar",
+    "cello"
+  ],
+  "lead_gain_db": 0,
+  "tongue_drum_sha256": "04b4972818fa4e89dace062158fd4ef8ab18fe4459fab035f3e9889e64470210",
+  "tongue_drum_byte_identical": true,
+  "backing_rms_relative_db": -10.000000153482135,
+  "backing_peak_relative_db": -10.03973329140035,
+  "mix_peak_dbfs": -16.652493803752296,
+  "active_window_ratio_99th_percentile_db": -2.5527937412261963,
+  "transient_control_passes": 0,
+  "stem_reports": [
+    {
+      "instrument": "guitar",
+      "events": 157,
+      "register_octave_shift": 0,
+      "active_rms_before_gain": 0.03459514537125418,
+      "stem_calibration_gain": 1.0117026427957208,
+      "role_weight": 1.0,
+      "rms_after_calibration": 0.032881974130459145
+    },
+    {
+      "instrument": "cello",
+      "events": 48,
+      "register_octave_shift": 0,
+      "active_rms_before_gain": 0.010215543969424286,
+      "stem_calibration_gain": 2.447250980939091,
+      "role_weight": 0.7142857142857143,
+      "rms_after_calibration": 0.015249497926938116
+    }
+  ],
+  "performance_events": [
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 0.12,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 1,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 0.801818,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 1,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 1.483636,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 1,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 2.165455,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 2,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 2.847273,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 2,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 3.529091,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 2,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 4.210909,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 3,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 4.892727,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 3,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 5.574545,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 3,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 6.256364,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 4,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 61,
+      "seconds": 6.938182,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 4,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 7.62,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 4,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 8.301818,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 5,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 8.983636,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 5,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 9.665455,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 5,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 10.347273,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 6,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 11.029091,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 6,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 11.710909,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 6,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 12.392727,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 7,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 61,
+      "seconds": 13.074545,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 7,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 13.756364,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 7,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 14.438182,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 8,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 15.12,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 8,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 15.801818,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 8,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 16.483636,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 9,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 17.165455,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 9,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 17.847273,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 9,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 18.529091,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 10,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 19.210909,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 10,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 19.892727,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 10,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 20.574545,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 11,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 21.256364,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 11,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 21.938182,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 11,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 22.62,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 12,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 61,
+      "seconds": 23.301818,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 12,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 23.983636,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 12,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 24.665455,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 13,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 25.347273,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 13,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 26.029091,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 13,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 26.710909,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 14,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 27.392727,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 14,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 28.074545,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 14,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 28.756364,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 15,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 61,
+      "seconds": 29.438182,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 15,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 30.12,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 15,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 30.801818,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 16,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 31.483636,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 16,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 32.165455,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 16,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 32.847273,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 17,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 33.529091,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 17,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 34.210909,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 17,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 34.892727,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 18,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 35.574545,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 18,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 36.256364,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 18,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 36.938182,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 19,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 37.62,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 19,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 38.301818,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 19,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 38.983636,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 20,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 61,
+      "seconds": 39.665455,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 20,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 40.347273,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 20,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 41.029091,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 21,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 41.710909,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 21,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 42.392727,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 21,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 43.074545,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 22,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 43.756364,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 22,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 44.438182,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 22,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 45.12,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 23,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 61,
+      "seconds": 45.801818,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 23,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 46.483636,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 23,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 47.165455,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 24,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 47.847273,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 24,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 48.529091,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 24,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 49.210909,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 25,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 49.892727,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 25,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 50.574545,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 25,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 51.256364,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 26,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 51.938182,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 26,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 52.62,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 26,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 53.301818,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 27,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 53.983636,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 27,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 54.665455,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 27,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 55.347273,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 28,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 56.029091,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 28,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 56.710909,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 28,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 57.392727,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 29,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 58.074545,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 29,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 58.756364,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 29,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 59.438182,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 30,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 60.12,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 30,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 60.801818,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 30,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 61.483636,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 31,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 62.165455,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 31,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 62.847273,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 31,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 63.529091,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 32,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 64.210909,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 32,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 64.892727,
+      "duration": 0.579545,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 32,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 65.574545,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 33,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 66.256364,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 33,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 66.938182,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 33,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.975,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 67.62,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 34,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 68.301818,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 34,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 68.983636,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 34,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.0,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 69.665455,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 35,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 70.347273,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 35,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 71.029091,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 35,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.025,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 71.710909,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 36,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 61,
+      "seconds": 72.392727,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 36,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 73.074545,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 36,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 73.756364,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 37,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 74.438182,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 37,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 75.12,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 37,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.035,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 75.801818,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 38,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 76.483636,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 38,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 77.165455,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 38,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 1.015,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 77.847273,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 39,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 61,
+      "seconds": 78.529091,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 39,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 79.210909,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 39,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.985,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 79.892727,
+      "duration": 1.022727,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 40,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 80.574545,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 40,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 81.256364,
+      "duration": 0.545455,
+      "velocity": 0.105,
+      "role": "accompaniment",
+      "bar": 40,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.965,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 81.938182,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 41,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 82.62,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 41,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 83.301818,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 41,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 83.983636,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 42,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 84.665455,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 42,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 85.347273,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 42,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 86.029091,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 43,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 86.710909,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 43,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 87.392727,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 43,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 88.074545,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 44,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 61,
+      "seconds": 88.756364,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 44,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 89.438182,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 44,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 90.12,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 45,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 90.801818,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 45,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 91.483636,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 45,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.8073,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 92.165455,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 46,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 92.847273,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 46,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 93.529091,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 46,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 94.210909,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 47,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 61,
+      "seconds": 94.892727,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 47,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 95.574545,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 47,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7683,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 96.256364,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 48,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 96.938182,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 48,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 97.62,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 48,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7527,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 55,
+      "seconds": 98.301818,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 49,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 59,
+      "seconds": 98.983636,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 49,
+      "original_midi": 59,
+      "performed_midi": 59,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 62,
+      "seconds": 99.665455,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 49,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7605,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 3,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 100.347273,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 50,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 101.029091,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 50,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 101.710909,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 50,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.78,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 102.392727,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 51,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 61,
+      "seconds": 103.074545,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 51,
+      "original_midi": 61,
+      "performed_midi": 61,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "string": "StringB",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 64,
+      "seconds": 103.756364,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 51,
+      "original_midi": 64,
+      "performed_midi": 64,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7995,
+      "source_detail": {
+        "string": "StringHighE",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 104.438182,
+      "duration": 1.022727,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 52,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringA",
+        "fret": 5,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 54,
+      "seconds": 105.12,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 52,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 4,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 57,
+      "seconds": 105.801818,
+      "duration": 0.545455,
+      "velocity": 0.0819,
+      "role": "accompaniment",
+      "bar": 52,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.7917,
+      "source_detail": {
+        "string": "StringG",
+        "fret": 2,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "guitar",
+      "midi": 50,
+      "seconds": 106.483636,
+      "duration": 2,
+      "velocity": 0.065,
+      "role": "cadence",
+      "bar": 53,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.64071,
+      "source_detail": {
+        "string": "StringD",
+        "fret": 0,
+        "technique": "Vel01Finger"
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 11.710909,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 6,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 14.438182,
+      "duration": 1.227273,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 8,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.68929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 19.892727,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 10,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 22.62,
+      "duration": 1.227273,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 12,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 28.074545,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 14,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 30.801818,
+      "duration": 1.227273,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 16,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.68929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 32.847273,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 17,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 33.529091,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 17,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 34.210909,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 17,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 34.892727,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 18,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 35.574545,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 18,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 54,
+      "seconds": 36.256364,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 18,
+      "original_midi": 54,
+      "performed_midi": 54,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 53,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_F2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 1
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 36.938182,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 19,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 37.62,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 19,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 38.301818,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 19,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 38.983636,
+      "duration": 1.227273,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 20,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 41.029091,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 21,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 41.710909,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 21,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 42.392727,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 21,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 43.074545,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 22,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 62,
+      "seconds": 43.756364,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 22,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 62,
+      "seconds": 44.438182,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 22,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 45.12,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 23,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.70357,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 46.483636,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 23,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.70357,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 47.165455,
+      "duration": 1.227273,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 24,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.68929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 52.62,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 26,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 55.347273,
+      "duration": 1.227273,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 28,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 60.801818,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 30,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 63.529091,
+      "duration": 1.227273,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 32,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.68929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 65.574545,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 33,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 66.256364,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 33,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 62,
+      "seconds": 66.938182,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 33,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.69643,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 67.62,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 34,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 68.983636,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 34,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.71429,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 69.665455,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 35,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 62,
+      "seconds": 70.347273,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 35,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 62,
+      "seconds": 71.029091,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 35,
+      "original_midi": 62,
+      "performed_midi": 62,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73214,
+      "source_detail": {
+        "root_midi": 60,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 71.710909,
+      "duration": 1.227273,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 36,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 73.756364,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 37,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 74.438182,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 37,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 75.12,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 37,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.73929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 75.801818,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 38,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 76.483636,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 38,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 55,
+      "seconds": 77.165455,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 38,
+      "original_midi": 55,
+      "performed_midi": 55,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.725,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": -2
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 77.847273,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 39,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.70357,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 57,
+      "seconds": 79.210909,
+      "duration": 0.579545,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 39,
+      "original_midi": 57,
+      "performed_midi": 57,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.70357,
+      "source_detail": {
+        "root_midi": 57,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 79.892727,
+      "duration": 1.227273,
+      "velocity": 0.075,
+      "role": "countermelody",
+      "bar": 40,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.68929,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    },
+    {
+      "instrument": "cello",
+      "midi": 50,
+      "seconds": 106.483636,
+      "duration": 2,
+      "velocity": 0.065,
+      "role": "cadence",
+      "bar": 53,
+      "original_midi": 50,
+      "performed_midi": 50,
+      "register_octave_shift": 0,
+      "onset_offset_ms": 0,
+      "performance_gain": 0.64071,
+      "source_detail": {
+        "root_midi": 50,
+        "sample": "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav",
+        "dynamics": "recorded soft v1",
+        "pitch_shift_semitones": 0
+      }
+    }
+  ],
+  "original_melody_events": [
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 0.12,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 1
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 0.801818,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 1
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 1.483636,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 1
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 2.165455,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 2
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 2.847273,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 2
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 3.529091,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 2
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 4.210909,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 3
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 4.892727,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 3
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 5.574545,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 3
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 6.256364,
+      "duration": 2.045455,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 4
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 8.301818,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 5
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 8.983636,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 5
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 9.665455,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 5
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 10.347273,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 6
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 11.029091,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 6
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 11.710909,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 6
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 12.392727,
+      "duration": 1.363636,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 7
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 13.756364,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 7
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 14.438182,
+      "duration": 2.045455,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 8
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 16.483636,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 9
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 17.165455,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 9
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 17.847273,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 9
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 18.529091,
+      "duration": 1.363636,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 10
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 19.892727,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 10
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 20.574545,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 11
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 21.256364,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 11
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 21.938182,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 11
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 22.62,
+      "duration": 2.045455,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 12
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 24.665455,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 13
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 25.347273,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 13
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 26.029091,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 13
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 26.710909,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 14
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 27.392727,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 14
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 28.074545,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 14
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 28.756364,
+      "duration": 1.363636,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 15
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 30.12,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 15
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 30.801818,
+      "duration": 2.045455,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 16
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 32.847273,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 17
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 33.529091,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 17
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 34.210909,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 17
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 34.892727,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 18
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 35.574545,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 18
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 36.256364,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 18
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 36.938182,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 19
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 37.62,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 19
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 38.301818,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 19
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 38.983636,
+      "duration": 2.045455,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 20
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 41.029091,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 21
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 41.710909,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 21
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 42.392727,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 21
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 43.074545,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 22
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 43.756364,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 22
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 44.438182,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 22
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 45.12,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 23
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 45.801818,
+      "duration": 0.340909,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 23
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 46.142727,
+      "duration": 0.340909,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 23
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 46.483636,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 23
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 47.165455,
+      "duration": 2.045455,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 24
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 49.210909,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 25
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 49.892727,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 25
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 50.574545,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 25
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 51.256364,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 26
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 51.938182,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 26
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 52.62,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 26
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 53.301818,
+      "duration": 1.363636,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 27
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 54.665455,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 27
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 55.347273,
+      "duration": 2.045455,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 28
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 57.392727,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 29
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 58.074545,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 29
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 58.756364,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 29
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 59.438182,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 30
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 60.12,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 30
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 60.801818,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 30
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 61.483636,
+      "duration": 1.363636,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 31
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 62.847273,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 31
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 63.529091,
+      "duration": 2.045455,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 32
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 65.574545,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 33
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 66.256364,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 33
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 66.938182,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 33
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 67.62,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 68.301818,
+      "duration": 0.340909,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 68.642727,
+      "duration": 0.340909,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 68.983636,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 69.665455,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 35
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 70.347273,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 35
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 71.029091,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 35
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 71.710909,
+      "duration": 2.045455,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 36
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 73.756364,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 37
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 74.438182,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 37
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 75.12,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 37
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 75.801818,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 76.483636,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 77.165455,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 77.847273,
+      "duration": 0.681818,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 39
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 78.529091,
+      "duration": 0.340909,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 39
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 78.87,
+      "duration": 0.340909,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 39
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 79.210909,
+      "duration": 0.681818,
+      "velocity": 0.46549999999999997,
+      "role": "main_melody",
+      "bar": 39
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 79.892727,
+      "duration": 2.045455,
+      "velocity": 0.49,
+      "role": "main_melody",
+      "bar": 40
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 81.938182,
+      "duration": 0.681818,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 41
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 82.62,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 41
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 83.301818,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 41
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 83.983636,
+      "duration": 0.681818,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 42
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 84.665455,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 42
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 85.347273,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 42
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 86.029091,
+      "duration": 0.681818,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 43
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 86.710909,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 43
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 87.392727,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 43
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 88.074545,
+      "duration": 2.045455,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 44
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 90.12,
+      "duration": 0.681818,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 45
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 90.801818,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 45
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 91.483636,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 45
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 92.165455,
+      "duration": 0.681818,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 46
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 92.847273,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 46
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 93.529091,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 46
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 94.210909,
+      "duration": 1.363636,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 47
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 95.574545,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 47
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 96.256364,
+      "duration": 2.045455,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 48
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 98.301818,
+      "duration": 0.681818,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 49
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 98.983636,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 49
+    },
+    {
+      "instrument": "tongue",
+      "midi": 67,
+      "seconds": 99.665455,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 49
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 100.347273,
+      "duration": 0.681818,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 50
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 101.029091,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 50
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 101.710909,
+      "duration": 0.681818,
+      "velocity": 0.423605,
+      "role": "main_melody",
+      "bar": 50
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 102.392727,
+      "duration": 2.045455,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 51
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 104.438182,
+      "duration": 2.045455,
+      "velocity": 0.4459,
+      "role": "main_melody",
+      "bar": 52
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 106.483636,
+      "duration": 2.5,
+      "velocity": 0.43,
+      "role": "main_melody",
+      "bar": 53
+    }
+  ],
+  "samples_used": {
+    "instruments/realistic-accompaniment-v11/guitar/INSGuitarNylon_StringA_Vel01Finger_D3_01.wav": {
+      "sha256": "018e475518358f47b3b5ddc1fb855624b453c88b93c1152f12cdcb2a9c4c4c17",
+      "onset_trim_frames": 772
+    },
+    "instruments/realistic-accompaniment-v11/guitar/INSGuitarNylon_StringD_Vel01Finger_Fs3_01.wav": {
+      "sha256": "4d4c03f59e9caf7cbd757dfef9b418a603f1cdd6acb781c60ed0a37fd8b8ce06",
+      "onset_trim_frames": 854
+    },
+    "instruments/realistic-accompaniment-v11/guitar/INSGuitarNylon_StringG_Vel01Finger_A3_01.wav": {
+      "sha256": "ca8880df692bb0665d420ead3a1fb31c3b17789320ea28a64d05644ca5dc2e25",
+      "onset_trim_frames": 155
+    },
+    "instruments/realistic-accompaniment-v11/guitar/INSGuitarNylon_StringD_Vel01Finger_G3_01.wav": {
+      "sha256": "889aa15163cd6bc0f9570586be97bd6aaa92faa8b75c80980f239b2e6cd95550",
+      "onset_trim_frames": 124
+    },
+    "instruments/realistic-accompaniment-v11/guitar/INSGuitarNylon_StringG_Vel01Finger_B3_01.wav": {
+      "sha256": "ee67dcb1a9fd9f53618a844a5b9419977a661354845aaa77f4b9e02f77b15d26",
+      "onset_trim_frames": 0
+    },
+    "instruments/realistic-accompaniment-v11/guitar/INSGuitarNylon_StringB_Vel01Finger_D4_01.wav": {
+      "sha256": "a51ca264d3ede3a1c08e9da8078bb6b2663c8003d7171c2b639180db466a9cd0",
+      "onset_trim_frames": 0
+    },
+    "instruments/realistic-accompaniment-v11/guitar/INSGuitarNylon_StringB_Vel01Finger_Cs4_01.wav": {
+      "sha256": "d548d8c63b677932f6a6833d151d4e5be6aa2b49827f0833f632449693d77fc5",
+      "onset_trim_frames": 0
+    },
+    "instruments/realistic-accompaniment-v11/guitar/INSGuitarNylon_StringHighE_Vel01Finger_E4_01.wav": {
+      "sha256": "c4d25d2b5b03e48ad0b30d3ad3d7579bc77f16deb124c2ee6a0f343473a6ab3d",
+      "onset_trim_frames": 0
+    },
+    "instruments/realistic-accompaniment-v11/guitar/INSGuitarNylon_StringD_Vel01Finger_D3_01.wav": {
+      "sha256": "894312b8a37d78e6e3d18cc2e0dd1ed59e615fa07999a2794a93ca34d7ea0d48",
+      "onset_trim_frames": 0
+    },
+    "instruments/realistic-accompaniment-v11/guitar/INSGuitarNylon_StringG_Vel01Finger_G3_01.wav": {
+      "sha256": "4434af6ec9c04e7d5bd67ac7fdbd54e1221eee146abe42402bc7802d091e1c1e",
+      "onset_trim_frames": 132
+    },
+    "instruments/realistic-accompaniment-v11/cello/susvib_A2_v1_1.wav": {
+      "sha256": "c97a003184fdcb153d6b6c0bae8d82a90592a1b04b06bd7caaeda8b9776d5284",
+      "onset_trim_frames": 606
+    },
+    "instruments/realistic-accompaniment-v11/cello/susvib_D2_v1_1.wav": {
+      "sha256": "e8640dec9febc6e39fcf06b19d2c95a85d5ff8c38f13c9879e69f551eaf38ab8",
+      "onset_trim_frames": 1107
+    },
+    "instruments/realistic-accompaniment-v11/cello/susvib_F2_v1_1.wav": {
+      "sha256": "162054eab4ba118924f8f8986cf1b17ccfd65211d1945743ffbae30b4953f901",
+      "onset_trim_frames": 328
+    },
+    "instruments/realistic-accompaniment-v11/cello/susvib_C3_v1_1.wav": {
+      "sha256": "a614ee7ca821b44660236e47b89620cf914ec6ad27a99bc0d9764f47dbe512e1",
+      "onset_trim_frames": 1072
+    }
+  },
+  "notes": "Piano, guitar, harp, cello and flute use original lossless samples. Guzheng and erhu retain DSK samples; xiao/xun retain existing recorded samples. Octave-only accompaniment register corrections are listed per instrument. The user-recorded tongue drum is unchanged. No added percussion. Custom sample renderer, not full VST/SFZ emulation.",
+  "published_audio": "audio/daylight-realistic-v12/12-backing-minus10db.mp3",
+  "published_audio_sha256": "6ad689a22a24f9da58d65ebbabc2703f9333f44a23a12793fbc1ea203655c557"
+}
