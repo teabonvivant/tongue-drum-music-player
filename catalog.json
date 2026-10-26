@@ -1,6 +1,59 @@
 {
   "playlists": [
     {
+      "id": "realistic-accompaniment-v11",
+      "title": "真實音源對照・鋼琴與結他",
+      "date": "2026-10-26",
+      "description": "兩首既有作品的伴奏音源升級試作，每首先聽原版，再聽新音源。空靈鼓沿用同一條用戶錄音分軌，音色、音符、拍點及分軌音量不變；只重製鋼琴／結他伴奏。沿用原曲插圖作版本對照。",
+      "cover": "covers/gentle-melodies-v7.png",
+      "tracks": [
+        {
+          "id": "01",
+          "title": "窗邊有人微笑・原版",
+          "instrument": "鋼琴",
+          "bpm": 92,
+          "duration": 120,
+          "src": "audio/gentle-melodies-v7/01.mp3",
+          "solo": "audio/gentle-melodies-v7/01-solo.mp3",
+          "group": "鋼琴對照",
+          "texture": "音源比較"
+        },
+        {
+          "id": "02",
+          "title": "窗邊有人微笑・新音源",
+          "instrument": "鋼琴",
+          "bpm": 92,
+          "duration": 120,
+          "src": "audio/realistic-accompaniment-v11/01.mp3",
+          "solo": "audio/gentle-melodies-v7/01-solo.mp3",
+          "group": "鋼琴對照",
+          "texture": "音源比較"
+        },
+        {
+          "id": "03",
+          "title": "沿海慢慢行・原版",
+          "instrument": "結他",
+          "bpm": 96,
+          "duration": 120,
+          "src": "audio/gentle-melodies-v7/03.mp3",
+          "solo": "audio/gentle-melodies-v7/03-solo.mp3",
+          "group": "尼龍弦結他對照",
+          "texture": "音源比較"
+        },
+        {
+          "id": "04",
+          "title": "沿海慢慢行・新音源",
+          "instrument": "結他",
+          "bpm": 96,
+          "duration": 120,
+          "src": "audio/realistic-accompaniment-v11/02.mp3",
+          "solo": "audio/gentle-melodies-v7/03-solo.mp3",
+          "group": "尼龍弦結他對照",
+          "texture": "音源比較"
+        }
+      ]
+    },
+    {
       "id": "youtube-longplay-15-v1",
       "title": "15分鐘・空靈鼓放鬆連播",
       "date": "2026-10-25",

@@ -65,5 +65,22 @@
     "instrument": "xun",
     "credit": "用戶提供：塤Xun.wav",
     "license": "用戶提供・分發授權未確認"
+  },
+  {
+    "instrument": "piano",
+    "version": "realistic-accompaniment-v11",
+    "credit": "Salamander Grand Piano V3 by Alexander Holm, Yamaha C5; original lossless 48 kHz / 24-bit recordings; soft adjacent velocity layers crossfaded by a custom renderer. Sample alignment, note envelopes, retuning, room simulation and mixing adapted for this recording.",
+    "url": "https://github.com/sfzinstruments/SalamanderGrandPiano",
+    "revision": "3382bf9496bba2486f5ab0de55a264d1dfc38404",
+    "license": "CC BY 3.0 - Alexander Holm",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "instrument": "guitar",
+    "version": "realistic-accompaniment-v11",
+    "credit": "Meta Creative Audio team / Meta Open Sound, Meta Nylon Guitar v1.0.0; original 48 kHz / 24-bit WAV, Vel01Finger. String-aware note selection and same-string damping, custom room simulation and mixing.",
+    "url": "https://github.com/facebookincubator/Meta-open-sound/tree/main/systems/instruments/meta-nylon-guitar",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
   }
 ]

@@ -10,3 +10,7 @@
 新增歌單：新增音檔及封面，更新 catalog.json 與 credits.json，保留既有 ID。超過 100 MB 的音檔放 Releases。提交 main 後等待 Pages 部署，再檢查實際播放。
 
 本次遷移未停用原網站。歌曲為採樣編排及連播整理，非 YuE2 生成；署名見 credits.json。
+
+## 真實音源對照（2026-10-26）
+
+[試聽鋼琴與結他 A/B 對照](https://teabonvivant.github.io/tongue-drum-music-player/#playlist=realistic-accompaniment-v11)。新增兩首伴奏升級版本，原版亦列入同一歌單方便比較。空靈鼓分軌保持原錄音、原音量及原拍點。製作記錄及音源署名見 production/realistic-accompaniment-v11。

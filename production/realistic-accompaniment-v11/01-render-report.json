@@ -1,0 +1,3532 @@
+{
+  "title": "窗邊有人微笑",
+  "source_album": "gentle-melodies-v7",
+  "source_track": "01",
+  "seconds": 120.0,
+  "bpm": 92,
+  "instrument": "piano",
+  "tongue_drum_unchanged": true,
+  "tongue_drum_sha256": "fa1c10d488043d9a07b2ef0c23f0ca6596457ee5930810a92cbb235ec56e6ecd",
+  "lead_gain_db": 0,
+  "lead_rms_dbfs": -34.29544325341767,
+  "backing_rms_relative_db": -14.001829085561505,
+  "backing_peak_relative_db": -9.634390214915518,
+  "mix_peak_dbfs": -18.8487173825482,
+  "mix_gain": 0.10550166515778028,
+  "min_accompaniment_envelope_gain": 0.9568960666656494,
+  "performance_events": [
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 0.12,
+      "duration": 1.304348,
+      "velocity": 40.5,
+      "role": "bass",
+      "bar": 1,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -6,
+      "pedal_release_seconds": 2.703696,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 1.424348,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 1,
+      "root": 54,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 2.703696,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 1.424348,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 1,
+      "root": 57,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 2.703696,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 2.728696,
+      "duration": 1.304348,
+      "velocity": 40,
+      "role": "bass",
+      "bar": 2,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 5.312391,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 4.033043,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 2,
+      "root": 60,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -6,
+      "pedal_release_seconds": 5.312391,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 4.033043,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 2,
+      "root": 63,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -3,
+      "pedal_release_seconds": 5.312391,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 55,
+      "seconds": 5.337391,
+      "duration": 1.304348,
+      "velocity": 44.5,
+      "role": "bass",
+      "bar": 3,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.9,
+      "tune_cents": -3,
+      "pedal_release_seconds": 7.921087,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 59,
+      "seconds": 6.641739,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 3,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -6,
+      "pedal_release_seconds": 7.921087,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 62,
+      "seconds": 6.641739,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 3,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -3,
+      "pedal_release_seconds": 7.921087,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 7.946087,
+      "duration": 1.304348,
+      "velocity": 41,
+      "role": "bass",
+      "bar": 4,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.2,
+      "tune_cents": -3,
+      "pedal_release_seconds": 10.529783,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 9.250435,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 4,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -6,
+      "pedal_release_seconds": 10.529783,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 9.250435,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 4,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 10.529783,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 10.554783,
+      "duration": 1.304348,
+      "velocity": 45.5,
+      "role": "bass",
+      "bar": 5,
+      "root": 51,
+      "layers": [
+        5,
+        6
+      ],
+      "layer_crossfade": 0.1429,
+      "tune_cents": -6,
+      "pedal_release_seconds": 13.138478,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 11.85913,
+      "duration": 1.173913,
+      "velocity": 40.5,
+      "role": "harmony",
+      "bar": 5,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -3,
+      "pedal_release_seconds": 13.138478,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 11.85913,
+      "duration": 1.173913,
+      "velocity": 40.5,
+      "role": "harmony",
+      "bar": 5,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -3,
+      "pedal_release_seconds": 13.138478,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 13.163478,
+      "duration": 1.304348,
+      "velocity": 41,
+      "role": "bass",
+      "bar": 6,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.2,
+      "tune_cents": -6,
+      "pedal_release_seconds": 15.747174,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 14.467826,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 6,
+      "root": 54,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 15.747174,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 14.467826,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 6,
+      "root": 57,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 15.747174,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 15.772174,
+      "duration": 1.304348,
+      "velocity": 41.5,
+      "role": "bass",
+      "bar": 7,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.3,
+      "tune_cents": -3,
+      "pedal_release_seconds": 18.35587,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 17.076522,
+      "duration": 1.173913,
+      "velocity": 36.5,
+      "role": "harmony",
+      "bar": 7,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.2222,
+      "tune_cents": -6,
+      "pedal_release_seconds": 18.35587,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 17.076522,
+      "duration": 1.173913,
+      "velocity": 36.5,
+      "role": "harmony",
+      "bar": 7,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.2222,
+      "tune_cents": -3,
+      "pedal_release_seconds": 18.35587,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 18.38087,
+      "duration": 1.304348,
+      "velocity": 36,
+      "role": "bass",
+      "bar": 8,
+      "root": 51,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -6,
+      "pedal_release_seconds": 20.964565,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 19.685217,
+      "duration": 1.173913,
+      "velocity": 31,
+      "role": "harmony",
+      "bar": 8,
+      "root": 54,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.1818,
+      "tune_cents": -3,
+      "pedal_release_seconds": 20.964565,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 19.685217,
+      "duration": 1.173913,
+      "velocity": 31,
+      "role": "harmony",
+      "bar": 8,
+      "root": 57,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.1818,
+      "tune_cents": -3,
+      "pedal_release_seconds": 20.964565,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 20.989565,
+      "duration": 1.304348,
+      "velocity": 40.5,
+      "role": "bass",
+      "bar": 9,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -6,
+      "pedal_release_seconds": 23.573261,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 22.293913,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 9,
+      "root": 54,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 23.573261,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 22.293913,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 9,
+      "root": 57,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 23.573261,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 23.598261,
+      "duration": 1.304348,
+      "velocity": 40,
+      "role": "bass",
+      "bar": 10,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 26.181957,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 24.902609,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 10,
+      "root": 60,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -6,
+      "pedal_release_seconds": 26.181957,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 24.902609,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 10,
+      "root": 63,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -3,
+      "pedal_release_seconds": 26.181957,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 55,
+      "seconds": 26.206957,
+      "duration": 1.304348,
+      "velocity": 44.5,
+      "role": "bass",
+      "bar": 11,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.9,
+      "tune_cents": -3,
+      "pedal_release_seconds": 28.790652,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 59,
+      "seconds": 27.511304,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 11,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -6,
+      "pedal_release_seconds": 28.790652,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 62,
+      "seconds": 27.511304,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 11,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -3,
+      "pedal_release_seconds": 28.790652,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 28.815652,
+      "duration": 1.304348,
+      "velocity": 41,
+      "role": "bass",
+      "bar": 12,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.2,
+      "tune_cents": -3,
+      "pedal_release_seconds": 31.399348,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 30.12,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 12,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -6,
+      "pedal_release_seconds": 31.399348,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 30.12,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 12,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 31.399348,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 31.424348,
+      "duration": 1.304348,
+      "velocity": 45.5,
+      "role": "bass",
+      "bar": 13,
+      "root": 51,
+      "layers": [
+        5,
+        6
+      ],
+      "layer_crossfade": 0.1429,
+      "tune_cents": -6,
+      "pedal_release_seconds": 34.008043,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 32.728696,
+      "duration": 1.173913,
+      "velocity": 40.5,
+      "role": "harmony",
+      "bar": 13,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -3,
+      "pedal_release_seconds": 34.008043,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 32.728696,
+      "duration": 1.173913,
+      "velocity": 40.5,
+      "role": "harmony",
+      "bar": 13,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -3,
+      "pedal_release_seconds": 34.008043,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 34.033043,
+      "duration": 1.304348,
+      "velocity": 41,
+      "role": "bass",
+      "bar": 14,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.2,
+      "tune_cents": -6,
+      "pedal_release_seconds": 36.616739,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 35.337391,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 14,
+      "root": 54,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 36.616739,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 35.337391,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 14,
+      "root": 57,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 36.616739,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 36.641739,
+      "duration": 1.304348,
+      "velocity": 41.5,
+      "role": "bass",
+      "bar": 15,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.3,
+      "tune_cents": -3,
+      "pedal_release_seconds": 39.225435,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 37.946087,
+      "duration": 1.173913,
+      "velocity": 36.5,
+      "role": "harmony",
+      "bar": 15,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.2222,
+      "tune_cents": -6,
+      "pedal_release_seconds": 39.225435,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 37.946087,
+      "duration": 1.173913,
+      "velocity": 36.5,
+      "role": "harmony",
+      "bar": 15,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.2222,
+      "tune_cents": -3,
+      "pedal_release_seconds": 39.225435,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 39.250435,
+      "duration": 1.304348,
+      "velocity": 36,
+      "role": "bass",
+      "bar": 16,
+      "root": 51,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -6,
+      "pedal_release_seconds": 41.83413,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 40.554783,
+      "duration": 1.173913,
+      "velocity": 31,
+      "role": "harmony",
+      "bar": 16,
+      "root": 54,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.1818,
+      "tune_cents": -3,
+      "pedal_release_seconds": 41.83413,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 40.554783,
+      "duration": 1.173913,
+      "velocity": 31,
+      "role": "harmony",
+      "bar": 16,
+      "root": 57,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.1818,
+      "tune_cents": -3,
+      "pedal_release_seconds": 41.83413,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 55,
+      "seconds": 41.85913,
+      "duration": 1.304348,
+      "velocity": 40.5,
+      "role": "bass",
+      "bar": 17,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -3,
+      "pedal_release_seconds": 44.442826,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 59,
+      "seconds": 43.163478,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 17,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -6,
+      "pedal_release_seconds": 44.442826,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 62,
+      "seconds": 43.163478,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 17,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 44.442826,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 44.467826,
+      "duration": 1.304348,
+      "velocity": 40,
+      "role": "bass",
+      "bar": 18,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -6,
+      "pedal_release_seconds": 47.051522,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 45.772174,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 18,
+      "root": 54,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -3,
+      "pedal_release_seconds": 47.051522,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 45.772174,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 18,
+      "root": 57,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -3,
+      "pedal_release_seconds": 47.051522,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 55,
+      "seconds": 47.076522,
+      "duration": 1.304348,
+      "velocity": 44.5,
+      "role": "bass",
+      "bar": 19,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.9,
+      "tune_cents": -3,
+      "pedal_release_seconds": 49.660217,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 59,
+      "seconds": 48.38087,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 19,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -6,
+      "pedal_release_seconds": 49.660217,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 62,
+      "seconds": 48.38087,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 19,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -3,
+      "pedal_release_seconds": 49.660217,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 49.685217,
+      "duration": 1.304348,
+      "velocity": 41,
+      "role": "bass",
+      "bar": 20,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.2,
+      "tune_cents": -3,
+      "pedal_release_seconds": 52.268913,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 50.989565,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 20,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -6,
+      "pedal_release_seconds": 52.268913,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 50.989565,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 20,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 52.268913,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 52.293913,
+      "duration": 1.304348,
+      "velocity": 45.5,
+      "role": "bass",
+      "bar": 21,
+      "root": 51,
+      "layers": [
+        5,
+        6
+      ],
+      "layer_crossfade": 0.1429,
+      "tune_cents": -6,
+      "pedal_release_seconds": 54.877609,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 53.598261,
+      "duration": 1.173913,
+      "velocity": 40.5,
+      "role": "harmony",
+      "bar": 21,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -3,
+      "pedal_release_seconds": 54.877609,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 53.598261,
+      "duration": 1.173913,
+      "velocity": 40.5,
+      "role": "harmony",
+      "bar": 21,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -3,
+      "pedal_release_seconds": 54.877609,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 55,
+      "seconds": 54.902609,
+      "duration": 1.304348,
+      "velocity": 41,
+      "role": "bass",
+      "bar": 22,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.2,
+      "tune_cents": -3,
+      "pedal_release_seconds": 57.486304,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 59,
+      "seconds": 56.206957,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 22,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -6,
+      "pedal_release_seconds": 57.486304,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 62,
+      "seconds": 56.206957,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 22,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 57.486304,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 57.511304,
+      "duration": 1.304348,
+      "velocity": 41.5,
+      "role": "bass",
+      "bar": 23,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.3,
+      "tune_cents": -3,
+      "pedal_release_seconds": 60.095,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 58.815652,
+      "duration": 1.173913,
+      "velocity": 36.5,
+      "role": "harmony",
+      "bar": 23,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.2222,
+      "tune_cents": -6,
+      "pedal_release_seconds": 60.095,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 58.815652,
+      "duration": 1.173913,
+      "velocity": 36.5,
+      "role": "harmony",
+      "bar": 23,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.2222,
+      "tune_cents": -3,
+      "pedal_release_seconds": 60.095,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 60.12,
+      "duration": 1.304348,
+      "velocity": 36,
+      "role": "bass",
+      "bar": 24,
+      "root": 51,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -6,
+      "pedal_release_seconds": 62.703696,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 61.424348,
+      "duration": 1.173913,
+      "velocity": 31,
+      "role": "harmony",
+      "bar": 24,
+      "root": 54,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.1818,
+      "tune_cents": -3,
+      "pedal_release_seconds": 62.703696,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 61.424348,
+      "duration": 1.173913,
+      "velocity": 31,
+      "role": "harmony",
+      "bar": 24,
+      "root": 57,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.1818,
+      "tune_cents": -3,
+      "pedal_release_seconds": 62.703696,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 62.728696,
+      "duration": 1.304348,
+      "velocity": 40.5,
+      "role": "bass",
+      "bar": 25,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -6,
+      "pedal_release_seconds": 65.312391,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 64.033043,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 25,
+      "root": 54,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 65.312391,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 64.033043,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 25,
+      "root": 57,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 65.312391,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 65.337391,
+      "duration": 1.304348,
+      "velocity": 40,
+      "role": "bass",
+      "bar": 26,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 67.921087,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 66.641739,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 26,
+      "root": 60,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -6,
+      "pedal_release_seconds": 67.921087,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 66.641739,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 26,
+      "root": 63,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -3,
+      "pedal_release_seconds": 67.921087,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 55,
+      "seconds": 67.946087,
+      "duration": 1.304348,
+      "velocity": 44.5,
+      "role": "bass",
+      "bar": 27,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.9,
+      "tune_cents": -3,
+      "pedal_release_seconds": 70.529783,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 59,
+      "seconds": 69.250435,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 27,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -6,
+      "pedal_release_seconds": 70.529783,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 62,
+      "seconds": 69.250435,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 27,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -3,
+      "pedal_release_seconds": 70.529783,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 70.554783,
+      "duration": 1.304348,
+      "velocity": 41,
+      "role": "bass",
+      "bar": 28,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.2,
+      "tune_cents": -3,
+      "pedal_release_seconds": 73.138478,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 71.85913,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 28,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -6,
+      "pedal_release_seconds": 73.138478,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 71.85913,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 28,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 73.138478,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 73.163478,
+      "duration": 1.304348,
+      "velocity": 45.5,
+      "role": "bass",
+      "bar": 29,
+      "root": 51,
+      "layers": [
+        5,
+        6
+      ],
+      "layer_crossfade": 0.1429,
+      "tune_cents": -6,
+      "pedal_release_seconds": 75.747174,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 74.467826,
+      "duration": 1.173913,
+      "velocity": 40.5,
+      "role": "harmony",
+      "bar": 29,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -3,
+      "pedal_release_seconds": 75.747174,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 74.467826,
+      "duration": 1.173913,
+      "velocity": 40.5,
+      "role": "harmony",
+      "bar": 29,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -3,
+      "pedal_release_seconds": 75.747174,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 75.772174,
+      "duration": 1.304348,
+      "velocity": 41,
+      "role": "bass",
+      "bar": 30,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.2,
+      "tune_cents": -6,
+      "pedal_release_seconds": 78.35587,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 77.076522,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 30,
+      "root": 54,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 78.35587,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 77.076522,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 30,
+      "root": 57,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 78.35587,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 78.38087,
+      "duration": 1.304348,
+      "velocity": 41.5,
+      "role": "bass",
+      "bar": 31,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.3,
+      "tune_cents": -3,
+      "pedal_release_seconds": 80.964565,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 79.685217,
+      "duration": 1.173913,
+      "velocity": 36.5,
+      "role": "harmony",
+      "bar": 31,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.2222,
+      "tune_cents": -6,
+      "pedal_release_seconds": 80.964565,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 79.685217,
+      "duration": 1.173913,
+      "velocity": 36.5,
+      "role": "harmony",
+      "bar": 31,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.2222,
+      "tune_cents": -3,
+      "pedal_release_seconds": 80.964565,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 80.989565,
+      "duration": 1.304348,
+      "velocity": 36,
+      "role": "bass",
+      "bar": 32,
+      "root": 51,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -6,
+      "pedal_release_seconds": 83.573261,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 82.293913,
+      "duration": 1.173913,
+      "velocity": 31,
+      "role": "harmony",
+      "bar": 32,
+      "root": 54,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.1818,
+      "tune_cents": -3,
+      "pedal_release_seconds": 83.573261,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 82.293913,
+      "duration": 1.173913,
+      "velocity": 31,
+      "role": "harmony",
+      "bar": 32,
+      "root": 57,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.1818,
+      "tune_cents": -3,
+      "pedal_release_seconds": 83.573261,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 83.598261,
+      "duration": 1.304348,
+      "velocity": 40.5,
+      "role": "bass",
+      "bar": 33,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -6,
+      "pedal_release_seconds": 86.181957,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 84.902609,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 33,
+      "root": 54,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 86.181957,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 84.902609,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 33,
+      "root": 57,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 86.181957,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 86.206957,
+      "duration": 1.304348,
+      "velocity": 40,
+      "role": "bass",
+      "bar": 34,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 88.790652,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 87.511304,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 34,
+      "root": 60,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -6,
+      "pedal_release_seconds": 88.790652,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 87.511304,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 34,
+      "root": 63,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -3,
+      "pedal_release_seconds": 88.790652,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 55,
+      "seconds": 88.815652,
+      "duration": 1.304348,
+      "velocity": 44.5,
+      "role": "bass",
+      "bar": 35,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.9,
+      "tune_cents": -3,
+      "pedal_release_seconds": 91.399348,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 59,
+      "seconds": 90.12,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 35,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -6,
+      "pedal_release_seconds": 91.399348,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 62,
+      "seconds": 90.12,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 35,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -3,
+      "pedal_release_seconds": 91.399348,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 91.424348,
+      "duration": 1.304348,
+      "velocity": 41,
+      "role": "bass",
+      "bar": 36,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.2,
+      "tune_cents": -3,
+      "pedal_release_seconds": 94.008043,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 92.728696,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 36,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -6,
+      "pedal_release_seconds": 94.008043,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 92.728696,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 36,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 94.008043,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 94.033043,
+      "duration": 1.304348,
+      "velocity": 45.5,
+      "role": "bass",
+      "bar": 37,
+      "root": 51,
+      "layers": [
+        5,
+        6
+      ],
+      "layer_crossfade": 0.1429,
+      "tune_cents": -6,
+      "pedal_release_seconds": 96.616739,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 95.337391,
+      "duration": 1.173913,
+      "velocity": 40.5,
+      "role": "harmony",
+      "bar": 37,
+      "root": 54,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -3,
+      "pedal_release_seconds": 96.616739,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 95.337391,
+      "duration": 1.173913,
+      "velocity": 40.5,
+      "role": "harmony",
+      "bar": 37,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -3,
+      "pedal_release_seconds": 96.616739,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 96.641739,
+      "duration": 1.304348,
+      "velocity": 41,
+      "role": "bass",
+      "bar": 38,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.2,
+      "tune_cents": -6,
+      "pedal_release_seconds": 99.225435,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 97.946087,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 38,
+      "root": 54,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 99.225435,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 97.946087,
+      "duration": 1.173913,
+      "velocity": 36,
+      "role": "harmony",
+      "bar": 38,
+      "root": 57,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -3,
+      "pedal_release_seconds": 99.225435,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 99.250435,
+      "duration": 1.304348,
+      "velocity": 41.5,
+      "role": "bass",
+      "bar": 39,
+      "root": 57,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.3,
+      "tune_cents": -3,
+      "pedal_release_seconds": 101.83413,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 61,
+      "seconds": 100.554783,
+      "duration": 1.173913,
+      "velocity": 36.5,
+      "role": "harmony",
+      "bar": 39,
+      "root": 60,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.2222,
+      "tune_cents": -6,
+      "pedal_release_seconds": 101.83413,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 64,
+      "seconds": 100.554783,
+      "duration": 1.173913,
+      "velocity": 36.5,
+      "role": "harmony",
+      "bar": 39,
+      "root": 63,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.2222,
+      "tune_cents": -3,
+      "pedal_release_seconds": 101.83413,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 101.85913,
+      "duration": 1.304348,
+      "velocity": 36,
+      "role": "bass",
+      "bar": 40,
+      "root": 51,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.1111,
+      "tune_cents": -6,
+      "pedal_release_seconds": 104.442826,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 103.163478,
+      "duration": 1.173913,
+      "velocity": 31,
+      "role": "harmony",
+      "bar": 40,
+      "root": 54,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.1818,
+      "tune_cents": -3,
+      "pedal_release_seconds": 104.442826,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 103.163478,
+      "duration": 1.173913,
+      "velocity": 31,
+      "role": "harmony",
+      "bar": 40,
+      "root": 57,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.1818,
+      "tune_cents": -3,
+      "pedal_release_seconds": 104.442826,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 104.467826,
+      "duration": 1.304348,
+      "velocity": 40.5,
+      "role": "bass",
+      "bar": 41,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.1,
+      "tune_cents": -6,
+      "pedal_release_seconds": 107.051522,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 105.772174,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 41,
+      "root": 54,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 107.051522,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 105.772174,
+      "duration": 1.173913,
+      "velocity": 35.5,
+      "role": "harmony",
+      "bar": 41,
+      "root": 57,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -3,
+      "pedal_release_seconds": 107.051522,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 107.076522,
+      "duration": 1.304348,
+      "velocity": 40,
+      "role": "bass",
+      "bar": 42,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.0,
+      "tune_cents": -6,
+      "pedal_release_seconds": 109.660217,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 108.38087,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 42,
+      "root": 54,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -3,
+      "pedal_release_seconds": 109.660217,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 108.38087,
+      "duration": 1.173913,
+      "velocity": 35,
+      "role": "harmony",
+      "bar": 42,
+      "root": 57,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.9091,
+      "tune_cents": -3,
+      "pedal_release_seconds": 109.660217,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 109.685217,
+      "duration": 1.304348,
+      "velocity": 44.5,
+      "role": "bass",
+      "bar": 43,
+      "root": 51,
+      "layers": [
+        4,
+        5
+      ],
+      "layer_crossfade": 0.9,
+      "tune_cents": -6,
+      "pedal_release_seconds": 112.268913,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 54,
+      "seconds": 110.989565,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 43,
+      "root": 54,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -3,
+      "pedal_release_seconds": 112.268913,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 57,
+      "seconds": 110.989565,
+      "duration": 1.173913,
+      "velocity": 39.5,
+      "role": "harmony",
+      "bar": 43,
+      "root": 57,
+      "layers": [
+        3,
+        4
+      ],
+      "layer_crossfade": 0.8889,
+      "tune_cents": -3,
+      "pedal_release_seconds": 112.268913,
+      "onset_offset_ms": 0
+    },
+    {
+      "instrument": "piano",
+      "midi": 50,
+      "seconds": 112.293913,
+      "duration": 2,
+      "velocity": 31,
+      "role": "cadence",
+      "bar": 44,
+      "root": 51,
+      "layers": [
+        2,
+        3
+      ],
+      "layer_crossfade": 0.1818,
+      "tune_cents": -6,
+      "pedal_release_seconds": 114.293913,
+      "onset_offset_ms": 0
+    }
+  ],
+  "original_melody_events": [
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 0.12,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 1
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 0.772174,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 1
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 1.424348,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 1
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 2.076522,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 1
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 2.728696,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 2
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 3.38087,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 2
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 4.033043,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 2
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 5.337391,
+      "duration": 1.304348,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 3
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 6.641739,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 3
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 7.293913,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 3
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 7.946087,
+      "duration": 1.304348,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 4
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 9.250435,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 4
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 10.554783,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 5
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 11.206957,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 5
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 11.85913,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 5
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 12.511304,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 5
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 13.163478,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 6
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 13.815652,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 6
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 14.467826,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 6
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 15.12,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 6
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 15.772174,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 7
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 16.424348,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 7
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 17.076522,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 7
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 18.38087,
+      "duration": 2.608696,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 8
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 20.989565,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 9
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 21.641739,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 9
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 22.293913,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 9
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 22.946087,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 9
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 23.598261,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 10
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 24.250435,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 10
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 24.902609,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 10
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 26.206957,
+      "duration": 1.304348,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 11
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 27.511304,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 11
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 28.163478,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 11
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 28.815652,
+      "duration": 1.304348,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 12
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 30.12,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 12
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 31.424348,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 13
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 32.076522,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 13
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 32.728696,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 13
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 33.38087,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 13
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 34.033043,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 14
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 34.685217,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 14
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 35.337391,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 14
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 35.989565,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 14
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 36.641739,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 15
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 37.293913,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 15
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 37.946087,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 15
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 39.250435,
+      "duration": 2.608696,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 16
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 41.85913,
+      "duration": 1.304348,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 17
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 43.163478,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 17
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 43.815652,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 17
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 44.467826,
+      "duration": 1.304348,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 18
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 45.772174,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 18
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 47.076522,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 19
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 47.728696,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 19
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 48.38087,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 19
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 49.685217,
+      "duration": 1.956522,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 20
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 51.641739,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 20
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 52.293913,
+      "duration": 1.304348,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 21
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 53.598261,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 21
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 54.250435,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 21
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 54.902609,
+      "duration": 1.304348,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 22
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 56.206957,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 22
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 56.85913,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 22
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 57.511304,
+      "duration": 1.304348,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 23
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 58.815652,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 23
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 60.12,
+      "duration": 2.608696,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 24
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 62.728696,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 25
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 63.38087,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 25
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 64.033043,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 25
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 64.685217,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 25
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 65.337391,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 26
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 65.989565,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 26
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 66.641739,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 26
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 67.946087,
+      "duration": 1.304348,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 27
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 69.250435,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 27
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 69.902609,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 27
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 70.554783,
+      "duration": 1.304348,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 28
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 71.85913,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 28
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 73.163478,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 29
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 73.815652,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 29
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 74.467826,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 29
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 75.12,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 29
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 75.772174,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 30
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 76.424348,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 30
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 77.076522,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 30
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 77.728696,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 30
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 78.38087,
+      "duration": 0.652174,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 31
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 79.033043,
+      "duration": 0.652174,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 31
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 79.685217,
+      "duration": 1.304348,
+      "velocity": 0.5088,
+      "role": "main_melody",
+      "bar": 31
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 80.989565,
+      "duration": 2.608696,
+      "velocity": 0.53,
+      "role": "main_melody",
+      "bar": 32
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 83.598261,
+      "duration": 0.652174,
+      "velocity": 0.49290000000000006,
+      "role": "main_melody",
+      "bar": 33
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 84.250435,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 33
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 84.902609,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 33
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 85.554783,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 33
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 86.206957,
+      "duration": 0.652174,
+      "velocity": 0.49290000000000006,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 86.85913,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 87.511304,
+      "duration": 1.304348,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 34
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 88.815652,
+      "duration": 1.304348,
+      "velocity": 0.49290000000000006,
+      "role": "main_melody",
+      "bar": 35
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 90.12,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 35
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 90.772174,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 35
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 91.424348,
+      "duration": 1.304348,
+      "velocity": 0.49290000000000006,
+      "role": "main_melody",
+      "bar": 36
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 92.728696,
+      "duration": 1.304348,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 36
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 94.033043,
+      "duration": 0.652174,
+      "velocity": 0.49290000000000006,
+      "role": "main_melody",
+      "bar": 37
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 94.685217,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 37
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 95.337391,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 37
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 95.989565,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 37
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 96.641739,
+      "duration": 0.652174,
+      "velocity": 0.49290000000000006,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 71,
+      "seconds": 97.293913,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 69,
+      "seconds": 97.946087,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 98.598261,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 38
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 99.250435,
+      "duration": 0.652174,
+      "velocity": 0.49290000000000006,
+      "role": "main_melody",
+      "bar": 39
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 99.902609,
+      "duration": 0.652174,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 39
+    },
+    {
+      "instrument": "tongue",
+      "midi": 64,
+      "seconds": 100.554783,
+      "duration": 1.304348,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 39
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 101.85913,
+      "duration": 2.608696,
+      "velocity": 0.49290000000000006,
+      "role": "main_melody",
+      "bar": 40
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 104.467826,
+      "duration": 1.304348,
+      "velocity": 0.49290000000000006,
+      "role": "main_melody",
+      "bar": 41
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 105.772174,
+      "duration": 1.304348,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 41
+    },
+    {
+      "instrument": "tongue",
+      "midi": 66,
+      "seconds": 107.076522,
+      "duration": 1.304348,
+      "velocity": 0.49290000000000006,
+      "role": "main_melody",
+      "bar": 42
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 108.38087,
+      "duration": 1.304348,
+      "velocity": 0.47318400000000005,
+      "role": "main_melody",
+      "bar": 42
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 109.685217,
+      "duration": 2.608696,
+      "velocity": 0.49290000000000006,
+      "role": "main_melody",
+      "bar": 43
+    },
+    {
+      "instrument": "tongue",
+      "midi": 62,
+      "seconds": 112.293913,
+      "duration": 3,
+      "velocity": 0.46,
+      "role": "main_melody",
+      "bar": 44
+    }
+  ],
+  "samples_used": {
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\D#3v4.flac": {
+      "sha256": "cc750a11b5cd63da9367fbe152ae51f18a6cb248364a24e1e76ee6b17d3d4b96",
+      "onset_trim_frames": 418
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\D#3v5.flac": {
+      "sha256": "2fef32f190a83ebd8d5dac184beeffbdc7f21a3b1b562e557db266e725dd60d1",
+      "onset_trim_frames": 346
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\F#3v3.flac": {
+      "sha256": "af3a5e903335da49303d4accad92b6d22be77516248b406d478b8d712e4a2d03",
+      "onset_trim_frames": 312
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\F#3v4.flac": {
+      "sha256": "1d338855b9447cb85efd063d331b97471836967fefbb8eef2b964718b38f26cd",
+      "onset_trim_frames": 223
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\A3v3.flac": {
+      "sha256": "8c5608fb5b9963f07e9d65fe59bbe2a84a9160f922bb96a71ed235485e93a0ce",
+      "onset_trim_frames": 109
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\A3v4.flac": {
+      "sha256": "7cfc9b2a18f8728431dfc236ca5c97793d3bdb413fd713eb13198c673982618f",
+      "onset_trim_frames": 67
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\A3v5.flac": {
+      "sha256": "5956e4b731456ad34443a7c8db99c0bbd742df7fe625b0e123f5dd008817f24c",
+      "onset_trim_frames": 127
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\C4v2.flac": {
+      "sha256": "2e8331f97c313ebbc6cd9c4d7975c5e8ea8eaec8414d701343dfe4e90a109cd0",
+      "onset_trim_frames": 277
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\C4v3.flac": {
+      "sha256": "c3cb4ce2d16885ab6dfd8250e0d447b56d51a187546f96e2ee2f95a4c93669fb",
+      "onset_trim_frames": 258
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\D#4v2.flac": {
+      "sha256": "cfbf7c4dbb86a330217c89976406bde9bd1ffdbd1953c6565f5b6898b3b2af49",
+      "onset_trim_frames": 316
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\D#4v3.flac": {
+      "sha256": "f85d124728e8bd345848fe14d67957bbabaf16fe04609f9dbc2e76b39f49c647",
+      "onset_trim_frames": 388
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\F#3v5.flac": {
+      "sha256": "aa64b3c1bcbaff4bc6e0246038ffc7fa8bb047dc9d5bdf6f66746f7d03a487eb",
+      "onset_trim_frames": 376
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\C4v4.flac": {
+      "sha256": "c68ab13a20f4e84361843417a17521d0cf7bd9587a43fbb36c04db56045990ed",
+      "onset_trim_frames": 430
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\D#4v4.flac": {
+      "sha256": "dfd69f142177241a5219427e0c7012a19002b6bc98e11bafe287d7190f847b79",
+      "onset_trim_frames": 452
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\D#3v6.flac": {
+      "sha256": "85b680ac6a5c723991400442bdb0f4d7f2c4034fcbb7150d7c65462026cc5daa",
+      "onset_trim_frames": 376
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\D#3v3.flac": {
+      "sha256": "25ff52c8f24059d5d96ecc271cdf76d865b3b57d7fc9ffec0113b7d1d82201ec",
+      "onset_trim_frames": 386
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\F#3v2.flac": {
+      "sha256": "640e5da0fd97b6268b7b8150d97bffda3f53e8f41bb7a8df0490ccf7509bae53",
+      "onset_trim_frames": 280
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\A3v2.flac": {
+      "sha256": "4cf1a2ee21a4b1e2bf14293c762658b0e95e24d58afca59476780d3461302d49",
+      "onset_trim_frames": 41
+    },
+    "instruments\\realistic-accompaniment-v11\\piano\\Samples\\D#3v2.flac": {
+      "sha256": "06d36b3575dbbcaeddd5ba34076fd4dc06259eae099587820e1843ecf7a39042",
+      "onset_trim_frames": 342
+    }
+  },
+  "renderer": "custom sample renderer, original lossless source recordings, not full SFZ/VST emulation",
+  "manual_listening": "awaiting user A/B preference",
+  "published_audio": "audio/realistic-accompaniment-v11/01.mp3",
+  "published_audio_sha256": "a732bbf0e8a447b7756113a193bd56ab89435a854da288aa33980ec4c95b6a6c"
+}

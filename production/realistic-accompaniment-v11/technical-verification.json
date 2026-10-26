@@ -1,0 +1,30 @@
+[
+  {
+    "track": "01",
+    "title": "窗邊有人微笑",
+    "tongue_drum_byte_identical": true,
+    "original_solo_mp3_byte_identical": true,
+    "melody_and_accompaniment_beats_preserved": true,
+    "duration": 120.0,
+    "clip_samples": 0,
+    "backing_rms_relative_db": -14.0,
+    "backing_peak_relative_db": -9.63,
+    "active_window_ratio_99th_percentile_db": -8.54,
+    "mix_peak_dbfs": -18.85,
+    "samples_verified": 19
+  },
+  {
+    "track": "02",
+    "title": "沿海慢慢行",
+    "tongue_drum_byte_identical": true,
+    "original_solo_mp3_byte_identical": true,
+    "melody_and_accompaniment_beats_preserved": true,
+    "duration": 120.0,
+    "clip_samples": 0,
+    "backing_rms_relative_db": -15.64,
+    "backing_peak_relative_db": -8.84,
+    "active_window_ratio_99th_percentile_db": -7.5,
+    "mix_peak_dbfs": -20.89,
+    "samples_verified": 10
+  }
+]
